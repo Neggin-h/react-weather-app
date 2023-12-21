@@ -10,6 +10,12 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        Coded by
+        <a href="https://github.com/Neggin-h/react-weather-app.git">
+          Neggin Hariri
+        </a>
+      </p>
     </div>
   </React.StrictMode>
 );
